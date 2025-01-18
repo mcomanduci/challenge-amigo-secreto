@@ -52,6 +52,6 @@ cd amigo-secreto
 
 Autor ✍️
 Marcelo Comanduci
-<a src="https://github.com/mcomanduci">GitHub</a> | <a src="https://www.linkedin.com/in/mcomanduci/">LinkedIn</a>
+[GitHub](https://github.com/mcomanduci) | [LinkedIn](https://www.linkedin.com/in/mcomanduci/)
 
 ---
