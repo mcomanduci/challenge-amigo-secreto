@@ -11,7 +11,7 @@ Este é um projeto simples e interativo para gerenciar um sorteio de Amigo Secre
 
 ---
 
-## Como Usar
+## Tutorial 🗒️
 
 ### Adicionar Participantes
 
