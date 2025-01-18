@@ -1,6 +1,7 @@
 # Amigo Secreto 🎁
 
 Este é um projeto simples e interativo para gerenciar um sorteio de Amigo Secreto. Com esta aplicação, você pode adicionar os nomes dos participantes e realizar o sorteio de forma prática e divertida. 🚀
+Este projeto é parte de um challenge do curso ONE da oracle.
 
 ## Funcionalidades ✨
 
